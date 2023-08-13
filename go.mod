@@ -1,4 +1,4 @@
-module github.com/khulnasoft-labs/boltdb-fixtures
+module github.com/khulnasoft-lab/boltdb-fixtures
 
 go 1.14
 
