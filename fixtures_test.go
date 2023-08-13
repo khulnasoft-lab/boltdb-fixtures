@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/khulnasoft-labs/boltdb-fixtures"
+	fixtures "github.com/khulnasoft-lab/boltdb-fixtures"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	bolt "go.etcd.io/bbolt"
